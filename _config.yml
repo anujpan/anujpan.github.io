@@ -1,11 +1,11 @@
 # Site settings
 author: Anuj Panchal
-title: 
+title: Flatiron Blog
 header-img: img/home-bg.png
 email: anujpan1@gmail.com
 copyright_name: Anuj Panchal
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Blog for flatiron school
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  anujpan
