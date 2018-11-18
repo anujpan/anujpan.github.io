@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Ruby CLI Project Walkthrough"
-date:       2018-11-18 01:33:31 +0000
+date:       2018-11-17 20:33:32 -0500
 permalink:  ruby_cli_project_walkthrough
 ---
 
